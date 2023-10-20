@@ -3,7 +3,6 @@
 [Check out the Complete report here](/Churn%20Prediction%20Project%20Report%20and%20Documentation_.pdf)
 
 
-
 ## 1. Data Preprocessing
 
 ### Summary Statistics for Continuous Features
